@@ -4,13 +4,13 @@
 const PATH = "/assignments";
 const HTML_LINK = "../../iam/assign.html";
 
-exports.getMenuItem = function() {
-	return {  
-      "name": "Assignments",
-      "path": PATH,
-      "link": HTML_LINK
-   };
-};
+//exports.getMenuItem = function() {
+//	return {  
+//      "name": "Assignments",
+//      "path": PATH,
+//      "link": HTML_LINK
+//   };
+//};
 
 exports.getSidebarItem = function() {
 	return {  
